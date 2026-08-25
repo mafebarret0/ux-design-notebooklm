@@ -1,4 +1,4 @@
-*Engenharia de Prompts*
+# *Engenharia de Prompts*
 
 Durante o projeto, foram testadas diferentes formas de fazer perguntas ao NotebookLM. O objetivo foi observar como alterações na estrutura do prompt influenciavam a qualidade, profundidade e organização das respostas.
 
