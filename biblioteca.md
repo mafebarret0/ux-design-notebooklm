@@ -1,4 +1,4 @@
-# Biblioteca de Prompts Reutilizáveis
+# *Biblioteca de Prompts Reutilizáveis*
 
 Os prompts abaixo foram organizados a partir dos aprendizados obtidos durante o projeto e podem ser reutilizados para estudar UX e outros assuntos.
 
