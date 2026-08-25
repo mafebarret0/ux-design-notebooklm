@@ -2,7 +2,7 @@
 
 Durante o projeto, foram testadas diferentes formas de fazer perguntas ao NotebookLM. O objetivo foi observar como alterações na estrutura do prompt influenciavam a qualidade, profundidade e organização das respostas.
 
-Prompt 1 — abordagem simples
+- Prompt 1 — abordagem simples
 
 O que é teste de usabilidade?
 
@@ -14,7 +14,7 @@ Problema identificado
 
 O prompt era muito amplo e não especificava a profundidade ou a estrutura desejada. Como consequência, a resposta apresentou informações além do necessário para uma primeira definição do conceito.
 
-Prompt 2 — abordagem específica
+- Prompt 2 — abordagem específica
 
 Explique o que é teste de usabilidade, seu objetivo, principais etapas e exemplos de aplicação. Baseie-se apenas nas fontes disponibilizadas.
 
@@ -31,7 +31,7 @@ Problema identificado
 
 O prompt melhorou o direcionamento, mas ainda não solicitava que as informações fossem relacionadas individualmente às fontes, o que dificultava a verificação de cada afirmação.
 
-Prompt 3 — abordagem elaborada
+- Prompt 3 — abordagem elaborada
 
 Atue como um professor de UX Design. Com base exclusivamente nas fontes disponibilizadas, explique o conceito de teste de usabilidade para um estudante iniciante. Apresente: definição, objetivos, preparação, execução, análise dos resultados e um exemplo prático. Sempre indique a fonte utilizada para cada informação relevante e sinalize quando as fontes não apresentarem determinada informação.
 
