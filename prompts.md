@@ -27,6 +27,7 @@ Elementos fundamentais;
 Objetivos;
 Etapas;
 Exemplos de aplicação.
+
 Problema identificado
 
 O prompt melhorou o direcionamento, mas ainda não solicitava que as informações fossem relacionadas individualmente às fontes, o que dificultava a verificação de cada afirmação.
@@ -43,7 +44,7 @@ Problema identificado
 
 O excesso de instruções e o nível de detalhamento solicitado fizeram com que a resposta se tornasse mais extensa. Algumas explicações poderiam ser reduzidas para facilitar uma revisão rápida.
 
-Aprendizados com os testes
+# Aprendizados com os testes
 
 A comparação mostrou que a qualidade da resposta não depende apenas da ferramenta utilizada, mas também da forma como a pergunta é construída.
 
