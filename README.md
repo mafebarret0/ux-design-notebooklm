@@ -5,6 +5,9 @@ Este projeto foi desenvolvido como parte de um desafio da DIO com o objetivo de 
 
 O tema escolhido foi Experiência do Usuário (UX), UX Design, Usabilidade e Testes de Usabilidade, buscando compreender como esses conceitos estão relacionados e como podem ser aplicados no desenvolvimento e na avaliação de produtos e sistemas.
 
+<img width="913" height="610" alt="image" src="https://github.com/user-attachments/assets/1dc8355b-bef6-4700-9b9f-76659bca3b51" />
+
+
 Durante o projeto, utilizei o NotebookLM para organizar as fontes selecionadas, realizar perguntas, comparar respostas, testar diferentes formas de elaboração de prompts e consolidar os conhecimentos adquiridos em um miniguia de estudos.
 
 # 1. Contexto e objetivos
@@ -22,6 +25,9 @@ Utilizar a Inteligência Artificial como ferramenta de apoio ao estudo e revisã
 # 2. Curadoria das fontes
 
 Foram selecionadas cinco fontes para serem utilizadas como base de conhecimento no NotebookLM, elas foram escolhidas por abordarem diferentes aspectos do tema, incluindo fundamentos de UX, usabilidade, testes com usuários, métricas, princípios de design e aplicações práticas.
+
+<img width="479" height="517" alt="image" src="https://github.com/user-attachments/assets/e468495f-f8b7-4e14-a72c-cec3504976f2" />
+
 
 # 3. Utilização do NotebookLM
 
@@ -44,3 +50,6 @@ Além do conteúdo técnico, o projeto também contribuiu para desenvolver habil
 
 # Mapa mental
 Também utilizei o recurso de geração de mapa mental do NotebookLM para organizar visualmente os principais conceitos estudados e o link se encontra disponível na seção "About" (Sobre).
+
+<img width="461" height="78" alt="image" src="https://github.com/user-attachments/assets/107274df-b92c-45ce-bbe5-4577a4304ad5" />
+
