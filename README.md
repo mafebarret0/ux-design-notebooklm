@@ -4,9 +4,11 @@
 Este projeto foi desenvolvido como parte de um desafio da DIO com o objetivo de utilizar a Inteligência Artificial como ferramenta de aprendizagem ativa.
 
 O tema escolhido foi Experiência do Usuário (UX), UX Design, Usabilidade e Testes de Usabilidade, buscando compreender como esses conceitos estão relacionados e como podem ser aplicados no desenvolvimento e na avaliação de produtos e sistemas.
-
+<br>
+<br>
 <img width="913" height="610" alt="image" src="https://github.com/user-attachments/assets/1dc8355b-bef6-4700-9b9f-76659bca3b51" />
-
+<br>
+<br>
 
 Durante o projeto, utilizei o NotebookLM para organizar as fontes selecionadas, realizar perguntas, comparar respostas, testar diferentes formas de elaboração de prompts e consolidar os conhecimentos adquiridos em um miniguia de estudos.
 
@@ -25,9 +27,11 @@ Utilizar a Inteligência Artificial como ferramenta de apoio ao estudo e revisã
 # 2. Curadoria das fontes
 
 Foram selecionadas cinco fontes para serem utilizadas como base de conhecimento no NotebookLM, elas foram escolhidas por abordarem diferentes aspectos do tema, incluindo fundamentos de UX, usabilidade, testes com usuários, métricas, princípios de design e aplicações práticas.
-
+<br>
+<br>
 <img width="479" height="517" alt="image" src="https://github.com/user-attachments/assets/e468495f-f8b7-4e14-a72c-cec3504976f2" />
-
+<br>
+<br>
 
 # 3. Utilização do NotebookLM
 
@@ -47,6 +51,7 @@ Essas lacunas foram importantes porque demonstraram que a IA não deve ser utili
 <br>
 <br>
 Exemplo de lacuna identificada pelo chat:
+<br>
 <br>
 <img width="723" height="468" alt="image" src="https://github.com/user-attachments/assets/55558bdc-f257-436e-9b33-a59ddb2b0af6" />
 
