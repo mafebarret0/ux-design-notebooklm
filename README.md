@@ -7,7 +7,7 @@ O tema escolhido foi Experiência do Usuário (UX), UX Design, Usabilidade e Tes
 
 Durante o projeto, utilizei o NotebookLM para organizar as fontes selecionadas, realizar perguntas, comparar respostas, testar diferentes formas de elaboração de prompts e consolidar os conhecimentos adquiridos em um miniguia de estudos.
 
-1. Contexto e objetivos
+# 1. Contexto e objetivos
 
 A escolha do tema está relacionada ao interesse em compreender melhor como os usuários interagem com sistemas e produtos digitais e como o design pode contribuir para tornar essas experiências mais simples, acessíveis e eficientes.
 
@@ -18,15 +18,12 @@ Conhecer princípios de usabilidade;
 Entender como funcionam os testes de usabilidade;
 Aprender a identificar problemas na experiência do usuário;
 Utilizar a Inteligência Artificial como ferramenta de apoio ao estudo e revisão.
-2. Curadoria das fontes
+
+# 2. Curadoria das fontes
 
 Foram selecionadas cinco fontes para serem utilizadas como base de conhecimento no NotebookLM, elas foram escolhidas por abordarem diferentes aspectos do tema, incluindo fundamentos de UX, usabilidade, testes com usuários, métricas, princípios de design e aplicações práticas.
 
-3. Utilização do NotebookLM
-
-Após a seleção das fontes, os materiais foram adicionados ao NotebookLM para servirem como base das pesquisas.
-
-A ferramenta foi utilizada para:
+# 3. Utilização do NotebookLM
 
 Explorar os conceitos presentes nas fontes;
 Comparar diferentes conceitos de UX e usabilidade;
