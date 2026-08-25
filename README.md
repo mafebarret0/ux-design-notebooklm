@@ -40,7 +40,18 @@ Identificar lacunas nas informações disponíveis;
 Auxiliar na organização do conhecimento;
 Criar um mapa mental sobre os conteúdos estudados.
 
-# 4. Conclusão
+# 4. Lacunas identificadas
+
+Durante a utilização do NotebookLM, também foi possível perceber informações que as fontes mencionavam, mas não explicavam em profundidade em alguns casos.
+Essas lacunas foram importantes porque demonstraram que a IA não deve ser utilizada como única fonte de conhecimento. Quando uma informação não está presente nos materiais selecionados, é necessário reconhecer essa limitação e buscar fontes complementares quando necessário.
+<br>
+<br>
+Exemplo de lacuna identificada pelo chat:
+<br>
+<img width="723" height="468" alt="image" src="https://github.com/user-attachments/assets/55558bdc-f257-436e-9b33-a59ddb2b0af6" />
+
+
+# 5. Conclusão
 
 A realização deste projeto permitiu compreender melhor os fundamentos de UX Design, usabilidade e testes de usabilidade, além de demonstrar uma forma prática de utilizar Inteligência Artificial como ferramenta de aprendizagem.
 
