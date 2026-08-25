@@ -34,5 +34,13 @@ Identificar lacunas nas informações disponíveis;
 Auxiliar na organização do conhecimento;
 Criar um mapa mental sobre os conteúdos estudados.
 
+# 4. Conclusão
+
+A realização deste projeto permitiu compreender melhor os fundamentos de UX Design, usabilidade e testes de usabilidade, além de demonstrar uma forma prática de utilizar Inteligência Artificial como ferramenta de aprendizagem.
+
+O principal aprendizado sobre o uso do NotebookLM foi perceber que a qualidade das respostas está diretamente relacionada à qualidade das perguntas. Testar diferentes formas de elaborar um prompt ajudou a identificar quais instruções produziam respostas mais úteis, organizadas e adequadas aos objetivos do estudo.
+
+Além do conteúdo técnico, o projeto também contribuiu para desenvolver habilidades de curadoria de fontes, pensamento crítico, organização do conhecimento e utilização consciente da Inteligência Artificial.
+
 # Mapa mental
 Também utilizei o recurso de geração de mapa mental do NotebookLM para organizar visualmente os principais conceitos estudados e o link se encontra disponível na seção "About" (Sobre).
