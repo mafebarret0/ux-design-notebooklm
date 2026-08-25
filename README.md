@@ -1,4 +1,4 @@
-# UX Design, Experiência do Usuário e Testes de Usabilidade com NotebookLM
+# *UX Design, Experiência do Usuário e Testes de Usabilidade com NotebookLM*
 
 # Sobre o projeto
 Este projeto foi desenvolvido como parte de um desafio da DIO com o objetivo de utilizar a Inteligência Artificial como ferramenta de aprendizagem ativa.
