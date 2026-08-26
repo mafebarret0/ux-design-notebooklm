@@ -1,4 +1,4 @@
-# *Experiência do Usuário (UX)*
+# 💡 *Experiência do Usuário (UX)*
 
 Experiência do Usuário é relacionada às percepções e respostas de uma pessoa resultantes do uso ou uso antecipado de um produto, sistema ou serviço.
 
@@ -10,7 +10,8 @@ Três pilares da experiência
 Look: aparência visual e relação com os valores e expectativas do usuário;
 Feel: sensação e prazer proporcionados durante a interação;
 Usability: facilidade, previsibilidade e simplicidade de utilização.
-5.2 Usabilidade
+
+## 5.2 Usabilidade
 
 Usabilidade está relacionada à facilidade e à intuitividade com que uma pessoa consegue aprender a utilizar um produto e executar tarefas.
 
@@ -34,7 +35,7 @@ Relaciona-se à percepção e ao nível de satisfação do usuário durante a ut
 
 Pode ser avaliada por meio de questionários e feedbacks, como SUS e CSAT.
 
-5.3 Princípios e frameworks de usabilidade
+## 5.3 Princípios e frameworks de usabilidade
 Heurísticas de Nielsen
 
 As 10 heurísticas de Nielsen são princípios gerais utilizados para avaliar a usabilidade de interfaces e identificar problemas de forma rápida.
@@ -52,7 +53,7 @@ Credibilidade;
 Desejabilidade;
 Acessibilidade;
 Valor.
-5.4 Testes de Usabilidade
+## 5.4 Testes de Usabilidade
 
 O teste de usabilidade é uma técnica de pesquisa utilizada para avaliar como usuários reais ou representativos do público-alvo interagem com um produto, sistema ou serviço.
 
@@ -66,7 +67,7 @@ Tarefas: atividades realistas que o participante deve executar.
 
 Facilitador: responsável por conduzir a sessão, observar o comportamento e evitar influenciar o participante.
 
-5.5 Etapas de um teste de usabilidade
+## 5.5 Etapas de um teste de usabilidade
 Definição dos objetivos;
 Recrutamento dos participantes;
 Elaboração das tarefas;
@@ -75,13 +76,13 @@ Execução e moderação;
 Análise dos resultados;
 Classificação e priorização dos problemas;
 Comunicação dos resultados.
-5.6 Think-Aloud
+## 5.6 Think-Aloud
 
 O método Think-Aloud, ou "pensar em voz alta", consiste em pedir que o participante verbalize seus pensamentos, dúvidas, sentimentos e intenções enquanto realiza uma tarefa.
 
 Essa técnica ajuda a compreender o modelo mental do usuário e identificar o motivo por trás de determinadas dificuldades.
 
-5.7 Métricas de usabilidade
+## 5.7 Métricas de usabilidade
 
 Os resultados podem ser analisados por meio de diferentes tipos de dados.
 
@@ -98,7 +99,7 @@ Dificuldades relatadas;
 Hesitações;
 Comportamentos observados;
 Causas dos problemas encontrados.
-5.8 Classificação dos problemas
+## 5.8 Classificação dos problemas
 
 Os problemas encontrados durante os testes podem ser classificados de acordo com sua severidade:
 
