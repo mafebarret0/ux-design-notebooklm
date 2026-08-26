@@ -76,7 +76,7 @@ Além do conteúdo técnico, o projeto também contribuiu para desenvolver habil
 
 
 ## ➤  Mapa mental
-Também utilizei o recurso de geração de mapa mental do NotebookLM para organizar visualmente os principais conceitos estudados e o link se encontra disponível na seção "About" (Sobre).
+Também utilizei o recurso de geração de mapa mental do NotebookLM para organizar visualmente os principais conceitos estudados e o link se encontra disponível na seção "About" (Sobre) no canto superior direito.
 
 <img width="461" height="78" alt="image" src="https://github.com/user-attachments/assets/107274df-b92c-45ce-bbe5-4577a4304ad5" />
 
