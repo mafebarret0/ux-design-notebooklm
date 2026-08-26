@@ -1,4 +1,4 @@
-# 💡 *Experiência do Usuário (UX)*
+# 💡 *Mini Guia - Experiência do Usuário (UX)*
 
 Experiência do Usuário é relacionada às percepções e respostas de uma pessoa resultantes do uso ou uso antecipado de um produto, sistema ou serviço.
 
@@ -11,38 +11,42 @@ Look: aparência visual e relação com os valores e expectativas do usuário;
 Feel: sensação e prazer proporcionados durante a interação;
 Usability: facilidade, previsibilidade e simplicidade de utilização.
 
+<br>
+
 ## Usabilidade
 
 Usabilidade está relacionada à facilidade e à intuitividade com que uma pessoa consegue aprender a utilizar um produto e executar tarefas.
 
-De acordo com a definição apresentada nas fontes com base na ISO 9241-11, a usabilidade está relacionada à capacidade de usuários específicos alcançarem objetivos específicos com eficácia, eficiência e satisfação, considerando um determinado contexto de uso.
+De acordo com a definição apresentada nas fontes com base na ISO 9241-11, a usabilidade está relacionada à capacidade de usuários específicos alcançarem objetivos específicos com **eficácia, eficiência e satisfação**, considerando um determinado contexto de uso.
 
-Eficácia
+### Eficácia
 
 Avalia se o usuário consegue concluir uma tarefa e atingir seu objetivo.
 
 Exemplo: o aluno consegue concluir um módulo e enviar uma atividade?
 
-Eficiência
+### Eficiência
 
 Está relacionada aos recursos utilizados para realizar uma tarefa, como tempo e esforço.
 
 Exemplo: quanto tempo e quantos cliques o aluno precisa para encontrar um material?
 
-Satisfação
+### Satisfação
 
 Relaciona-se à percepção e ao nível de satisfação do usuário durante a utilização do produto.
 
 Pode ser avaliada por meio de questionários e feedbacks, como SUS e CSAT.
 
-## 5.3 Princípios e frameworks de usabilidade
-Heurísticas de Nielsen
+<br>
+
+## Princípios e frameworks de usabilidade
+**Heurísticas de Nielsen**
 
 As 10 heurísticas de Nielsen são princípios gerais utilizados para avaliar a usabilidade de interfaces e identificar problemas de forma rápida.
 
 Elas podem ser utilizadas em uma avaliação heurística antes ou junto aos testes com usuários.
 
-7 fatores de Peter Morville
+**7 fatores de Peter Morville**
 
 O framework apresenta sete dimensões relacionadas à experiência:
 
@@ -53,34 +57,44 @@ Credibilidade;
 Desejabilidade;
 Acessibilidade;
 Valor.
+
+<br>
+
 ## Testes de Usabilidade
 
 O teste de usabilidade é uma técnica de pesquisa utilizada para avaliar como usuários reais ou representativos do público-alvo interagem com um produto, sistema ou serviço.
 
 O objetivo é identificar problemas, dificuldades e pontos de fricção durante a realização de tarefas.
 
-Três elementos principais
+**Três elementos principais**
 
-Participante: usuário real ou representativo do público-alvo.
+- Participante: usuário real ou representativo do público-alvo.
 
-Tarefas: atividades realistas que o participante deve executar.
+- Tarefas: atividades realistas que o participante deve executar.
 
-Facilitador: responsável por conduzir a sessão, observar o comportamento e evitar influenciar o participante.
+- Facilitador: responsável por conduzir a sessão, observar o comportamento e evitar influenciar o participante.
+
+<br>
 
 ## Etapas de um teste de usabilidade
-Definição dos objetivos;
-Recrutamento dos participantes;
-Elaboração das tarefas;
-Teste piloto;
-Execução e moderação;
-Análise dos resultados;
-Classificação e priorização dos problemas;
-Comunicação dos resultados.
-## 5.6 Think-Aloud
+01. Definição dos objetivos;
+02. Recrutamento dos participantes;
+03. Elaboração das tarefas;
+04. Teste piloto;
+05. Execução e moderação;
+06. Análise dos resultados;
+07. Classificação e priorização dos problemas;
+08. Comunicação dos resultados.
+
+<br>
+
+## Think-Aloud
 
 O método Think-Aloud, ou "pensar em voz alta", consiste em pedir que o participante verbalize seus pensamentos, dúvidas, sentimentos e intenções enquanto realiza uma tarefa.
 
 Essa técnica ajuda a compreender o modelo mental do usuário e identificar o motivo por trás de determinadas dificuldades.
+
+<br>
 
 ## Métricas de usabilidade
 
@@ -99,6 +113,9 @@ Dificuldades relatadas;
 Hesitações;
 Comportamentos observados;
 Causas dos problemas encontrados.
+
+<br>
+
 ## Classificação dos problemas
 
 Os problemas encontrados durante os testes podem ser classificados de acordo com sua severidade:
