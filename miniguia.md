@@ -100,19 +100,14 @@ Essa técnica ajuda a compreender o modelo mental do usuário e identificar o mo
 
 Os resultados podem ser analisados por meio de diferentes tipos de dados.
 
-Quantitativos
-Taxa de sucesso;
-Taxa de erros;
-Tempo na tarefa;
-Curva de aprendizado;
-SUS;
-CSAT.
-Qualitativos
-Comentários dos participantes;
-Dificuldades relatadas;
-Hesitações;
-Comportamentos observados;
-Causas dos problemas encontrados.
+| Quantitativos | Qualitativos |
+| --- | --- |
+| Taxa de sucesso | Comentários dos participantes |
+| Taxa de erros | Dificuldades relatadas |
+| Tempo na tarefa | Hesitações |
+| Curva de aprendizado | Comportamentos observados |
+| SUS | Causas dos problemas encontrados |
+| CSAT |  |
 
 <br>
 
@@ -120,10 +115,10 @@ Causas dos problemas encontrados.
 
 Os problemas encontrados durante os testes podem ser classificados de acordo com sua severidade:
 
-Crítico: impede a conclusão da tarefa ou compromete o uso do sistema.
+**Crítico:** impede a conclusão da tarefa ou compromete o uso do sistema.
 
-Maior: dificulta uma tarefa importante ou gera erros frequentes.
+**Maior:** dificulta uma tarefa importante ou gera erros frequentes.
 
-Menor: apresenta baixo impacto na experiência geral.
+**Menor:** apresenta baixo impacto na experiência geral.
 
 Essa classificação ajuda a equipe a definir quais problemas devem ser tratados primeiro.
