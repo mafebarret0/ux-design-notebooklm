@@ -111,7 +111,7 @@ Os resultados podem ser analisados por meio de diferentes tipos de dados.
 
 <br>
 
-## Classificação dos problemas
+## 🤔 Classificação dos problemas
 
 Os problemas encontrados durante os testes podem ser classificados de acordo com sua severidade:
 
