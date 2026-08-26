@@ -11,7 +11,7 @@ Look: aparência visual e relação com os valores e expectativas do usuário;
 Feel: sensação e prazer proporcionados durante a interação;
 Usability: facilidade, previsibilidade e simplicidade de utilização.
 
-## 5.2 Usabilidade
+## Usabilidade
 
 Usabilidade está relacionada à facilidade e à intuitividade com que uma pessoa consegue aprender a utilizar um produto e executar tarefas.
 
@@ -53,7 +53,7 @@ Credibilidade;
 Desejabilidade;
 Acessibilidade;
 Valor.
-## 5.4 Testes de Usabilidade
+## Testes de Usabilidade
 
 O teste de usabilidade é uma técnica de pesquisa utilizada para avaliar como usuários reais ou representativos do público-alvo interagem com um produto, sistema ou serviço.
 
@@ -67,7 +67,7 @@ Tarefas: atividades realistas que o participante deve executar.
 
 Facilitador: responsável por conduzir a sessão, observar o comportamento e evitar influenciar o participante.
 
-## 5.5 Etapas de um teste de usabilidade
+## Etapas de um teste de usabilidade
 Definição dos objetivos;
 Recrutamento dos participantes;
 Elaboração das tarefas;
@@ -82,7 +82,7 @@ O método Think-Aloud, ou "pensar em voz alta", consiste em pedir que o particip
 
 Essa técnica ajuda a compreender o modelo mental do usuário e identificar o motivo por trás de determinadas dificuldades.
 
-## 5.7 Métricas de usabilidade
+## Métricas de usabilidade
 
 Os resultados podem ser analisados por meio de diferentes tipos de dados.
 
@@ -99,7 +99,7 @@ Dificuldades relatadas;
 Hesitações;
 Comportamentos observados;
 Causas dos problemas encontrados.
-## 5.8 Classificação dos problemas
+## Classificação dos problemas
 
 Os problemas encontrados durante os testes podem ser classificados de acordo com sua severidade:
 
